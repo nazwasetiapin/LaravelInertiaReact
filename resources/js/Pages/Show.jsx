@@ -1,4 +1,4 @@
-import { Link, useForm } from "@inertiajs/react";
+import {Head, Link, useForm } from "@inertiajs/react";
 import { useRoute } from "../../../vendor/tightenco/ziggy";
 
 export default function Show({post}) {
